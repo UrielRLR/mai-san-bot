@@ -130,12 +130,8 @@ Escribe "hola" y saluda hp`
     if (msg.includes('cuenta tyr')){
         message.reply('cuenta tyr');
     }
-
-    if (msg.includes('María')){
-        message.reply('vieja hp');
-    }
-
     
+
        // ===== STICKER DESDE IMAGEN =====
     if (msg === '#s' && message.hasQuotedMsg) {
 
