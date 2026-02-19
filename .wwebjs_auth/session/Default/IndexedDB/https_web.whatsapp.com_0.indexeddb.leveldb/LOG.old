@@ -1,0 +1,31 @@
+2026/02/19-09:35:46.543 1314 Reusing MANIFEST C:\Users\uriel\Mai-san-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/19-09:35:46.543 1314 Recovering log #12
+2026/02/19-09:35:46.569 1314 Reusing old log C:\Users\uriel\Mai-san-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000012.log 
+2026/02/19-09:35:47.394 1314 Level-0 table #17: started
+2026/02/19-09:35:47.412 1314 Level-0 table #17: 1361065 bytes OK
+2026/02/19-09:35:47.414 1314 Delete type=0 #12
+2026/02/19-09:35:48.161 1314 Compacting 1@1 + 1@2 files
+2026/02/19-09:35:48.197 1314 Generated table #18@1: 40917 keys, 1824049 bytes
+2026/02/19-09:35:48.197 1314 Compacted 1@1 + 1@2 files => 1824049 bytes
+2026/02/19-09:35:48.198 1314 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/19-09:35:48.198 1314 Delete type=2 #14
+2026/02/19-09:35:48.198 1314 Delete type=2 #17
+2026/02/19-09:38:10.489 1314 Level-0 table #20: started
+2026/02/19-09:38:10.505 1314 Level-0 table #20: 1403451 bytes OK
+2026/02/19-09:38:10.507 1314 Delete type=0 #16
+2026/02/19-09:38:15.864 6068 Compacting 1@1 + 1@2 files
+2026/02/19-09:38:15.906 6068 Generated table #21@1: 45329 keys, 2029667 bytes
+2026/02/19-09:38:15.906 6068 Compacted 1@1 + 1@2 files => 2029667 bytes
+2026/02/19-09:38:15.907 6068 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/19-09:38:15.907 6068 Delete type=2 #18
+2026/02/19-09:38:15.907 6068 Delete type=2 #20
+2026/02/19-09:40:17.199 1314 Level-0 table #23: started
+2026/02/19-09:40:17.219 1314 Level-0 table #23: 1397701 bytes OK
+2026/02/19-09:40:17.220 1314 Delete type=0 #19
+2026/02/19-09:40:17.453 1314 Compacting 1@1 + 1@2 files
+2026/02/19-09:40:17.494 1314 Generated table #24@1: 49384 keys, 2229257 bytes
+2026/02/19-09:40:17.496 1314 Generated table #25@1: 95 keys, 6025 bytes
+2026/02/19-09:40:17.496 1314 Compacted 1@1 + 1@2 files => 2235282 bytes
+2026/02/19-09:40:17.496 1314 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/02/19-09:40:17.496 1314 Delete type=2 #21
+2026/02/19-09:40:17.496 1314 Delete type=2 #23
